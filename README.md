@@ -4,9 +4,10 @@ This is a simple visual tool that compares measurements taken by two different d
 
 ## Installation
 
-To use this tool, you will need to have Python 3 and matplotlib library installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/ and install matplotlib by running the following command in your terminal or command prompt:
+To use this tool, you will need to have Python 3, the numpy library, and matplotlib library installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/ and install matplotlib by running the following command in your terminal or command prompt:
 ```
 pip install matplotlib
+pip install numpy
 ```
 Once you have installed Python 3 and matplotlib, you can download the source code from this Github repository. To do so, you can either download the ZIP file and extract it to a folder on your computer, or you can use Git to clone the repository:
 ```
