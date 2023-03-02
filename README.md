@@ -10,14 +10,14 @@ pip install matplotlib
 ```
 Once you have installed Python 3 and matplotlib, you can download the source code from this Github repository. To do so, you can either download the ZIP file and extract it to a folder on your computer, or you can use Git to clone the repository:
 ```
-git clone https://github.com/yourusername/probability-theory-tool.git
+git clone https://github.com/unalfaruk/Probability-Visualizer.git
 ```
 ## Usage
 
 To use the tool, simply run the following command in your terminal or command prompt:
 
 ```
-python main.py
+python <filename>.py
 ```
 
 ## Screenshot
